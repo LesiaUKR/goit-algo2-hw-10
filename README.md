@@ -1,4 +1,4 @@
-# Homework on "Algorithmic Complexity, Approximate and Randomized Algorithms"
+# HW-10 | Algorithmic Complexity, Approximate and Randomized Algorithms
 
 ## Hello! 👋🏻 Ready for a new challenge?
 
